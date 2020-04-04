@@ -1,0 +1,3 @@
+[submodule "tmi_cxx"]
+	path = tmi_cxx
+	url = https://github.com/walterpie/tmi.cxx.git
